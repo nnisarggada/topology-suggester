@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "text": "How many remote locations or branches does your network need to connect to?",
+    "options": [
+      { "id": 1, "text": "None", "points": 2 },
+      { "id": 2, "text": "A few (1-2)", "points": 3 },
+      { "id": 3, "text": "Several (3 or more)", "points": 4 }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "What is your preferred method of network management?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Centralized (e.g., single control point)",
+        "points": 4
+      },
+      {
+        "id": 2,
+        "text": "Distributed (e.g., independent control at each node)",
+        "points": 3
+      },
+      { "id": 3, "text": "No preference", "points": 2 }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "How important is ease of maintenance for your network?",
+    "options": [
+      { "id": 1, "text": "Very important", "points": 3 },
+      { "id": 2, "text": "Somewhat important", "points": 2 },
+      { "id": 3, "text": "Not important", "points": 1 }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Do you have specific performance requirements (e.g., low latency or high bandwidth)?",
+    "options": [
+      { "id": 1, "text": "Yes, demanding requirements", "points": 4 },
+      { "id": 2, "text": "Moderate requirements", "points": 3 },
+      { "id": 3, "text": "No specific requirements", "points": 2 }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Are you concerned about cable management and aesthetics in your network setup?",
+    "options": [
+      { "id": 1, "text": "Very concerned", "points": 3 },
+      { "id": 2, "text": "Somewhat concerned", "points": 2 },
+      { "id": 3, "text": "Not concerned", "points": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "How much technical expertise do you have for network setup and maintenance?",
+    "options": [
+      { "id": 1, "text": "Highly experienced", "points": 4 },
+      { "id": 2, "text": "Moderate experience", "points": 3 },
+      { "id": 3, "text": "Limited experience", "points": 2 },
+      { "id": 4, "text": "No experience", "points": 1 }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Do you want to prioritize scalability for future growth over the initial setup?",
+    "options": [
+      { "id": 1, "text": "Yes, prioritize scalability", "points": 4 },
+      { "id": 2, "text": "Balance scalability and initial setup", "points": 3 },
+      { "id": 3, "text": "No, prioritize initial setup", "points": 2 }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "What is the expected traffic load on your network (e.g., heavy multimedia streaming or light web browsing)?",
+    "options": [
+      { "id": 1, "text": "Heavy traffic load", "points": 4 },
+      { "id": 2, "text": "Moderate traffic load", "points": 3 },
+      { "id": 3, "text": "Light traffic load", "points": 2 }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "How important is energy efficiency in your network hardware?",
+    "options": [
+      { "id": 1, "text": "Very important", "points": 3 },
+      { "id": 2, "text": "Somewhat important", "points": 2 },
+      { "id": 3, "text": "Not important", "points": 1 }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "How critical is network speed and performance for your daily operations?",
+    "options": [
+      { "id": 1, "text": "Very critical", "points": 4 },
+      { "id": 2, "text": "Moderately critical", "points": 3 },
+      { "id": 3, "text": "Not critical", "points": 2 }
+    ]
+  }
+]
